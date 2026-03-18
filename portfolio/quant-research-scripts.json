@@ -1,0 +1,15 @@
+{
+  "section": "python",
+  "category": "quant",
+  "n": 1,
+  "title": "Quant Research Scripts",
+  "desc": "Quantitative finance experiments — NeuralProphet neural time-series forecasting and inflation-adjusted stock price analysis.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Quant-Research-Scripts",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Quant-Research-Scripts/blob/main/README.md",
+  "tags": [
+    "python",
+    "quant",
+    "ml",
+    "forecasting"
+  ]
+}
